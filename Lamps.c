@@ -1,3 +1,7 @@
+/*An electronics shop sells red and blue lamps. A red lamp costs X rupees and a blue lamp costs Y rupees.
+Amar is going to buy exactly N lamps from this shop. Find the minimum amount of money Amar needs to pay such that at least K of the lamps bought are red.*/
+
+
 #include<stdio.h>
 int main(){
     int n,k,x,y,a,b,c,c1;
