@@ -1,3 +1,5 @@
+//python program to check whether the given number is prime or not.
+
 #include<stdio.h>
 int main(){
     int n,count=0;
