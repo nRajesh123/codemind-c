@@ -1,3 +1,8 @@
+/*Kohli has infinite coins in denominations of rupees 5 and rupees 10.
+Find the minimum number of coins Kohli needs, to pay exactly X rupees. If it is impassible
+to pay X rupees in denominations of rupees 5 and 10 only, print-1*/
+
+
 #include<stdio.h>
 int main(){
     int x,a,r,c;
