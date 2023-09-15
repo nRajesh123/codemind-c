@@ -1,7 +1,3 @@
-/*Mario transforms each time he eats a mustiroom as follows:
-if he is currently small he turns normal
-if he is currently normal he turns huge the is currently huge, he turns smail.
-Given that Mario was initially normal, find his size after eating X mushrooms */
 
 
 #include<stdio.h>
