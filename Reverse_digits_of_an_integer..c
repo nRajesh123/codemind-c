@@ -1,3 +1,6 @@
+//python program to revers the digits of a number.
+
+
 #include<stdio.h>
 int main(){
     int n,rev=0,r;
